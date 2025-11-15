@@ -100,9 +100,27 @@ h1 {
     border-radius: 12px;
 }
 
+h2 {
+    font-weight: 500;
+}
+
+.name {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.title {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
 .card.Daniel {
     background-color: hsl(263, 55%, 52%);
-    color: white;
+    color: hsl(260, 100%, 95%);
+}
+
+.avatar.Daniel {
+    border: 2.5px solid #B28BE8;
 }
 
 .card.Jonathan {
@@ -110,9 +128,17 @@ h1 {
     color: white;
 }
 
+.avatar.Jonathan {
+    border: 2.5px solid #808DA8;
+}
+
 .card.Jeanette {
     background-color: white;
     color: hsl(217, 19%, 35%);
+}
+
+.avatar.Jeanette {
+    border: 2.5px solid hsl(217, 19%, 35%);
 }
 
 .card.Patrick {
@@ -120,9 +146,17 @@ h1 {
     color: hsl(0, 0%, 81%);
 }
 
+.avatar.Patrick {
+    border: 2.5px solid hsl(263, 55%, 52%);
+}
+
 .card.Kira {
     background-color: white;
     color: hsl(217, 19%, 35%);
+}
+
+.avatar.Kira {
+    border: 2.5px solid hsl(217, 19%, 35%);
 }
 
 /* ===== DESKTOP LAYOUT ===== */
