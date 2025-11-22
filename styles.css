@@ -200,7 +200,8 @@ h2 {
             "Kira       Kira        ."; 
             
         gap: 1.5rem;
-        max-width: 900px;
+        width: 900px;
+        max-width: 90%;
 
     }
 
@@ -259,7 +260,8 @@ h2 {
             "Jeanette   Patrick     Patrick        Kira";   
         
         gap: 1.5rem;
-        max-width: 1250px;
+        width: 1250px;
+        max-width: 90%;
 
     }
 
